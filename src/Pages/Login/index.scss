@@ -35,12 +35,14 @@ body {
 }
 
 .login_username {
+    line-height: 30px;
     display: flex;
     flex-direction: row;
 }
 
 .login_password {
-    margin-top: 2vh;
+    line-height: 30px;
+    margin-top: 3vh;
     display: flex;
     flex-direction: row;
 }
